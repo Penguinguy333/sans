@@ -1,6 +1,6 @@
 const commando = require('discord.js-commando');
 
-class Quack extends commando.Command {
+class sans extends commando.Command {
     constructor(client) {
         super(client, {
             name: 'sans',
