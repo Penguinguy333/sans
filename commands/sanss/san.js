@@ -1,6 +1,6 @@
 const commando = require('discord.js-commando');
 
-class Quak extends commando.Command {
+class san extends commando.Command {
     constructor(client) {
         super(client, {
             name: 'san',
