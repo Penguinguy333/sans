@@ -12,7 +12,7 @@ class san extends commando.Command {
 
     async run(message, args) {
         var roll = Math.floor(Math.random() * 6) + 1;
-        message.reply("i dont like black people");
+        message.reply("we live in a society, where gamers are being segregated, harassed, and even killed. gamers   rise  up. ");
     }
 }
 
